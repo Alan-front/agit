@@ -12,18 +12,20 @@ body {
 }
 
 h1 {
-  font-size: 1.25rem;
+  font-size: 2rem;
+  padding-block: 1.5rem;
   background-color: aquamarine;
   color: rgb(82, 73, 0);
   font-family: Arial, sans-serif;
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.75rem;
   font-family: "Courier New", Courier, monospace;
 
   color: rgb(212, 208, 208);
   background-color: rgb(92, 54, 78);
+  padding-block: 1.5rem;
 }
 
 h3 {
@@ -31,5 +33,13 @@ h3 {
   font-family: "Lucida Console", Monaco, monospace;
   color: rgb(241, 206, 5);
   background-color: rgb(26, 24, 24);
+  padding-block: 1rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(255, 246, 168);
+  background-color: rgb(226, 141, 61);
   padding-block: 1rem;
 }
