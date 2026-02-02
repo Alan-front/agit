@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin-bottom: 1.2rem;
+
+  background-color: #fdffa3;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.25rem;
+  background-color: aquamarine;
+  color: rgb(82, 73, 0);
+  font-family: Arial, sans-serif;
+}
