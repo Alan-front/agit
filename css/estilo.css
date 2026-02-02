@@ -24,3 +24,11 @@ p {
   color: rgb(212, 208, 208);
   background-color: rgb(92, 54, 78);
 }
+
+h3 {
+  font-size: 1.3rem;
+  font-family: "Lucida Console", Monaco, monospace;
+  color: rgb(241, 206, 5);
+  background-color: rgb(26, 24, 24);
+  padding-block: 1rem;
+}
