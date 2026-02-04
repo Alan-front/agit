@@ -43,3 +43,14 @@ h2 {
   background-color: rgb(226, 141, 61);
   padding-block: 1rem;
 }
+
+header {
+  height: 100px;
+  width: 100vw;
+  background-color: teal;
+  display: flex;
+}
+
+.header-txt {
+  color: yellowgreen;
+}
