@@ -43,3 +43,10 @@ h2 {
   background-color: rgb(226, 141, 61);
   padding-block: 1rem;
 }
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: #fff;
+}
