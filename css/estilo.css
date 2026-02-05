@@ -53,9 +53,11 @@ h4 {
 }
 
 h5 {
-  font-size: 2rem;
-  font-family: monospace, cursive, sans-serif;
+  font-size: 0.75rem;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
   color: rgb(28, 226, 54);
-  background-color: rgb(228, 61, 150);
-  padding-block: 1.6rem;
+  background-color: rgb(59, 58, 59);
+  padding-block: 1rem;
 }
