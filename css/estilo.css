@@ -51,3 +51,11 @@ h4 {
   background-color: rgb(173, 255, 47);
   padding-block: 0.8rem;
 }
+
+h5 {
+  font-size: 2rem;
+  font-family: monospace, cursive, sans-serif;
+  color: rgb(28, 226, 54);
+  background-color: rgb(228, 61, 150);
+  padding-block: 1.6rem;
+}
