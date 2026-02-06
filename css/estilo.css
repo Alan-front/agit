@@ -1,14 +1,21 @@
 * {
   padding: 0;
   margin: 0;
-  margin-block: 1.2rem;
+  margin-block: 0.5rem;
 }
 
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
 body {
   margin-bottom: 1.2rem;
 
   background-color: #fdffa3;
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
@@ -58,4 +65,12 @@ h5 {
   color: rgb(28, 226, 54);
   background-color: rgb(228, 61, 150);
   padding-block: 1.6rem;
+}
+
+.footer {
+  margin-top: auto;
+  padding: 20px 10px;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
